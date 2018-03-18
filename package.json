@@ -1,7 +1,22 @@
 {
   "name": "xctestwd-frameworks-9.2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "xctestwd frameworks for xcode 9.2",
   "keywords": ["xctestwd"],
+  "files": [
+    "Carthage/Build/iOS/AEXML.framework",
+    "Carthage/Build/iOS/AEXML.framework.dSYM",
+    "Carthage/Build/iOS/Fuzi.framework",
+    "Carthage/Build/iOS/Fuzi.framework.dSYM",
+    "Carthage/Build/iOS/Swifter.framework",
+    "Carthage/Build/iOS/Swifter.framework.dSYM",
+    "Carthage/Build/iOS/SwiftyJSON.framework",
+    "Carthage/Build/iOS/SwiftyJSON.framework.dSYM",
+    "Carthage/Build/iOS/CocoaLumberjack.framework",
+    "Carthage/Build/iOS/CocoaLumberjack.framework.dSYM",
+    "Carthage/Build/iOS/CocoaLumberjackSwift.framework",
+    "Carthage/Build/iOS/CocoaLumberjackSwift.framework.dSYM",
+    "index.js"
+  ],
   "main": "index.js"
 }
