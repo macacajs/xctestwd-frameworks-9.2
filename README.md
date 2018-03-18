@@ -23,3 +23,7 @@
 ```bash
 $ npm i xctestwd-frameworks-9.2 --save
 ```
+
+## Location of framework
+
+https://unpkg.com/xctestwd-frameworks-9.2@latest/
